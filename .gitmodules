@@ -218,3 +218,7 @@
 	path = __oca__/web
 	url = https://github.com/OCA/web.git
 	branch = 10.0
+[submodule "__oca__/data-protection"]
+	path = __oca__/data-protection
+	url = https://github.com/OCA/data-protection.git
+	branch = 10.0
