@@ -222,3 +222,7 @@
 	path = __oca__/data-protection
 	url = https://github.com/OCA/data-protection.git
 	branch = 10.0
+[submodule "__oca__/mis-builder"]
+	path = __oca__/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 10.0
