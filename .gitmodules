@@ -246,3 +246,7 @@
 	path = __oca__/vertical-medical
 	url = https://github.com/OCA/vertical-medical.git
 	branch = 10.0
+[submodule "__oca__/maintenance"]
+	path = __oca__/maintenance
+	url = https://github.com/OCA/maintenance.git
+	branch = 10.0
