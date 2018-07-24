@@ -230,3 +230,7 @@
 	path = __oca__/vertical-travel
 	url = https://github.com/OCA/vertical-travel.git
 	branch = 10.0
+[submodule "__oca__/vertical-isp"]
+	path = __oca__/vertical-isp
+	url = https://github.com/OCA/vertical-isp.git
+	branch = 10.0
