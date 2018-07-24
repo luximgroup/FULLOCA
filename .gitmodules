@@ -234,3 +234,7 @@
 	path = __oca__/vertical-isp
 	url = https://github.com/OCA/vertical-isp.git
 	branch = 10.0
+[submodule "__oca__/vertical-education"]
+	path = __oca__/vertical-education
+	url = https://github.com/OCA/vertical-education.git
+	branch = 10.0
