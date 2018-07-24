@@ -242,3 +242,7 @@
 	path = __oca__/calendar
 	url = https://github.com/OCA/calendar.git
 	branch = 10.0
+[submodule "__oca__/vertical-medical"]
+	path = __oca__/vertical-medical
+	url = https://github.com/OCA/vertical-medical.git
+	branch = 10.0
