@@ -238,3 +238,7 @@
 	path = __oca__/vertical-education
 	url = https://github.com/OCA/vertical-education.git
 	branch = 10.0
+[submodule "__oca__/calendar"]
+	path = __oca__/calendar
+	url = https://github.com/OCA/calendar.git
+	branch = 10.0
