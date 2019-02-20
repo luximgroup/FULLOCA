@@ -238,3 +238,8 @@
 	path = __oca__/web
 	url = https://github.com/OCA/web.git
 	branch = 11.0
+[submodule "__oca__/field-service"]
+	path = __oca__/field-service
+	url = https://github.com/OCA/field-service.git
+	branch = 11.0
+
