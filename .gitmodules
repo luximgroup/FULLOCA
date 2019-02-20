@@ -262,3 +262,7 @@
 	path = __oca__/report-print-send
 	url = https://github.com/OCA/report-print-send.git
 	branch = 11.0
+[submodule "__oca__/connector"]
+	path = __oca__/connector
+	url = https://github.com/OCA/connector.git
+	branch = 11.0
