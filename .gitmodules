@@ -242,4 +242,7 @@
 	path = __oca__/field-service
 	url = https://github.com/OCA/field-service.git
 	branch = 11.0
-
+[submodule "__oca__/mis-builder"]
+	path = __oca__/mis-builder
+	url = https://github.com/OCA/mis-builder.git
+	branch = 11.0
