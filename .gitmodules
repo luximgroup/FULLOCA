@@ -270,3 +270,7 @@
 	path = __oca__/apps-store
 	url = https://github.com/OCA/apps-store.git
 	branch = 11.0
+[submodule "__oca__/website-themes"]
+	path = __oca__/website-themes
+	url = https://github.com/OCA/website-themes.git
+	branch = 11.0
