@@ -250,3 +250,7 @@
 	path = __oca__/vertical-hotel
 	url = https://github.com/OCA/vertical-hotel.git
 	branch = 11.0
+[submodule "__oca__/data-protection"]
+	path = __oca__/data-protection
+	url = https://github.com/OCA/data-protection.git
+	branch = 11.0
