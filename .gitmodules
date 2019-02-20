@@ -258,3 +258,7 @@
 	path = __oca__/rest-framework
 	url = https://github.com/OCA/rest-framework.git
 	branch = 11.0
+[submodule "__oca__/report-print-send"]
+	path = __oca__/report-print-send
+	url = https://github.com/OCA/report-print-send.git
+	branch = 11.0
