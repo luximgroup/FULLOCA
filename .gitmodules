@@ -246,3 +246,7 @@
 	path = __oca__/mis-builder
 	url = https://github.com/OCA/mis-builder.git
 	branch = 11.0
+[submodule "__oca__/vertical-hotel"]
+	path = __oca__/vertical-hotel
+	url = https://github.com/OCA/vertical-hotel.git
+	branch = 11.0
