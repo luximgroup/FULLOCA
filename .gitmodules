@@ -254,3 +254,7 @@
 	path = __oca__/data-protection
 	url = https://github.com/OCA/data-protection.git
 	branch = 11.0
+[submodule "__oca__/rest-framework"]
+	path = __oca__/rest-framework
+	url = https://github.com/OCA/rest-framework.git
+	branch = 11.0
