@@ -266,3 +266,7 @@
 	path = __oca__/connector
 	url = https://github.com/OCA/connector.git
 	branch = 11.0
+[submodule "__oca__/apps-store"]
+	path = __oca__/apps-store
+	url = https://github.com/OCA/apps-store.git
+	branch = 11.0
