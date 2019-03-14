@@ -274,3 +274,7 @@
 	path = __oca__/website-themes
 	url = https://github.com/OCA/website-themes.git
 	branch = 11.0
+[submodule "__oca__/community-data-files"]
+	path = __oca__/community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = 11.0
