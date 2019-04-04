@@ -278,3 +278,7 @@
 	path = __oca__/community-data-files
 	url = https://github.com/OCA/community-data-files.git
 	branch = 11.0
+[submodule "__oca__/queue"]
+	path = __oca__/queue
+	url = https://github.com/OCA/queue.git
+	branch = 11.0
