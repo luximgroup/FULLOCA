@@ -274,3 +274,43 @@
 	path = __oca__/website-themes
 	url = https://github.com/OCA/website-themes.git
 	branch = 12.0
+[submodule "__oca__/brand"]
+	path = __oca__/brand
+	url = https://github.com/OCA/brand.git
+	branch = 12.0
+[submodule "__oca__/currency"]
+	path = __oca__/currency
+	url = https://github.com/OCA/currency.git
+	branch = 12.0
+[submodule "__oca__/community-data-files"]
+	path = __oca__/community-data-files
+	url = https://github.com/OCA/community-data-files.git
+	branch = 12.0
+[submodule "__oca__/credit-control"]
+	path = __oca__/credit-control
+	url = https://github.com/OCA/credit-control.git
+	branch = 12.0
+[submodule "__oca__/intrastat-extrastat"]
+	path = __oca__/intrastat-extrastat
+	url = https://github.com/OCA/intrastat-extrastat.git
+	branch = 12.0
+[submodule "__oca__/margin-analysis"]
+	path = __oca__/margin-analysis
+	url = https://github.com/OCA/margin-analysis.git
+	branch = 12.0
+[submodule "__oca__/maintenance"]
+	path = __oca__/maintenance
+	url = https://github.com/OCA/maintenance.git
+	branch = 12.0
+[submodule "__oca__/operating-unit"]
+	path = __oca__/operating-unit
+	url = https://github.com/OCA/operating-unit.git
+	branch = 12.0
+[submodule "__oca__/helpdesk"]
+	path = __oca__/helpdesk
+	url = https://github.com/OCA/helpdesk.git
+	branch = 12.0
+[submodule "__oca__/queue"]
+	path = __oca__/queue
+	url = https://github.com/OCA/queue.git
+	branch = 12.0
