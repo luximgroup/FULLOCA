@@ -314,3 +314,8 @@
 	path = __oca__/queue
 	url = https://github.com/OCA/queue.git
 	branch = 12.0
+[submodule "__oca__/product-pack"]
+	path = __oca__/product-pack
+	url = https://github.com/OCA/product-pack.git
+	branch = 12.0
+
