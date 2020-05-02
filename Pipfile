@@ -88,6 +88,7 @@ XlsxWriter = "==1.1.2"
 xlwt = "==1.3.*"
 zeep = "==3.2.0"
 zpl2 = ">=1.1"
+sodapy = "*"
 
 
 [requires]
