@@ -12,6 +12,7 @@ pyls = "*"
 #python-language-server = {extras = ["all"], version = "*"}
 
 [packages]
+OdooRPC = "*"
 acme-tiny = "*"
 apispec = "*"
 Babel = "==2.7.0"
@@ -80,7 +81,8 @@ pyusb = "==1.0.2"
 PyYAML = ">=5.4"
 qrcode = "==6.1"
 raven = "*"
-reportlab = "==3.5.13"
+#reportlab = "==3.5.13"
+reportlab = "*"
 requests = "*"
 responses = "*"
 Shapely = "*"
