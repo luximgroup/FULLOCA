@@ -318,4 +318,59 @@
 	path = __oca__/product-pack
 	url = https://github.com/OCA/product-pack.git
 	branch = 14.0
-
+[submodule "__oca__/wms"]
+	path = __oca__/wms
+	url = https://github.com/OCA/wms.git
+	branch = 14.0
+[submodule "__oca__/pms"]
+	path = __oca__/pms
+	url = https://github.com/OCA/pms.git
+	branch = 14.0
+[submodule "__oca__/hr-attendance"]
+	path = __oca__/hr-attendance
+	url = https://github.com/OCA/hr-attendance.git
+	branch = 14.0
+[submodule "__oca__/hr-holidays"]
+	path = __oca__/hr-holidays
+	url = https://github.com/OCA/hr-holidays.git
+	branch = 14.0
+[submodule "__oca__/payroll"]
+	path = __oca__/payroll
+	url = https://github.com/OCA/payroll.git
+	branch = 14.0
+[submodule "__oca__/hr-expense"]
+	path = __oca__/hr-expense
+	url = https://github.com/OCA/hr-expense.git
+	branch = 14.0
+[submodule "__oca__/connector-interfaces"]
+	path = __oca__/connector-interfaces
+	url = https://github.com/OCA/connector-interfaces.git
+	branch = 14.0
+[submodule "__oca__/donation"]
+	path = __oca__/donation
+	url = https://github.com/OCA/donation.git
+	branch = 14.0
+[submodule "__oca__/dms"]
+	path = __oca__/dms
+	url = https://github.com/OCA/dms.git
+	branch = 14.0
+[submodule "__oca__/ddmrp"]
+	path = __oca__/ddmrp
+	url = https://github.com/OCA/ddmrp.git
+	branch = 14.0
+[submodule "__oca__/storage"]
+	path = __oca__/storage
+	url = https://github.com/OCA/storage.git
+	branch = 14.0
+[submodule "__oca__/iot"]
+	path = __oca__/iot
+	url = https://github.com/OCA/iot.git
+	branch = 14.0
+[submodule "__oca__/odoo-pim"]
+	path = __oca__/odoo-pim
+	url = https://github.com/OCA/odoo-pim.git
+	branch = 14.0
+[submodule "__oca__/product-configurator"]
+	path = __oca__/product-configurator
+	url = https://github.com/OCA/product-configurator.git
+	branch = 14.0
