@@ -322,3 +322,7 @@
 	path = __oca__/dms
 	url = git@github.com:OCA/dms.git
 	branch = 12.0
+[submodule "__oca__/ddmrp"]
+	path = __oca__/ddmrp
+	url = https://github.com/OCA/ddmrp.git
+	branch = 12.0
