@@ -322,10 +322,6 @@
 	path = __oca__/wms
 	url = https://github.com/OCA/wms.git
 	branch = 14.0
-[submodule "__oca__/pms"]
-	path = __oca__/pms
-	url = https://github.com/OCA/pms.git
-	branch = 14.0
 [submodule "__oca__/hr-attendance"]
 	path = __oca__/hr-attendance
 	url = https://github.com/OCA/hr-attendance.git
