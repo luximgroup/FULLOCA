@@ -370,3 +370,7 @@
 	path = __oca__/product-configurator
 	url = https://github.com/OCA/product-configurator.git
 	branch = 14.0
+[submodule "__oca__/cooperative"]
+	path = __oca__/cooperative
+	url = https://github.com/OCA/cooperative.git
+	branch = 14.0
