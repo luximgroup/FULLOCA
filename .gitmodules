@@ -374,3 +374,7 @@
 	path = __oca__/cooperative
 	url = https://github.com/OCA/cooperative.git
 	branch = 14.0
+[submodule "__oca__/survey"]
+	path = __oca__/survey
+	url = https://github.com/OCA/survey.git
+	branch = 14.0
